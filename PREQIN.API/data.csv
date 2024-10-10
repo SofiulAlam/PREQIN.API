@@ -1,0 +1,301 @@
+Id,Name,Type,Country,DateAdded,LastUpdated,CommitmentAssetClass,CommitmentAmount,CommitmentCurrency
+1,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,15000000,GBP
+2,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,31000000,GBP
+3,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,58000000,GBP
+4,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,72000000,GBP
+5,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,1000000,GBP
+6,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,17000000,GBP
+7,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,83000000,GBP
+8,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,28000000,GBP
+9,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,85000000,GBP
+10,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,31000000,GBP
+11,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,45000000,GBP
+12,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,48000000,GBP
+13,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,45000000,GBP
+14,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,12000000,GBP
+15,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,30000000,GBP
+16,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,94000000,GBP
+17,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,17000000,GBP
+18,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,86000000,GBP
+19,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,32000000,GBP
+20,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,38000000,GBP
+21,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,6000000,GBP
+22,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,61000000,GBP
+23,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,63000000,GBP
+24,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,15000000,GBP
+25,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,70000000,GBP
+26,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,27000000,GBP
+27,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,51000000,GBP
+28,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,92000000,GBP
+29,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,10000000,GBP
+30,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,41000000,GBP
+31,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,69000000,GBP
+32,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,66000000,GBP
+33,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,75000000,GBP
+34,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,74000000,GBP
+35,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,86000000,GBP
+36,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,36000000,GBP
+37,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,55000000,GBP
+38,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,60000000,GBP
+39,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,4000000,GBP
+40,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,75000000,GBP
+41,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,86000000,GBP
+42,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,63000000,GBP
+43,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,4000000,GBP
+44,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,82000000,GBP
+45,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,87000000,GBP
+46,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,11000000,GBP
+47,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,89000000,GBP
+48,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,12000000,GBP
+49,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,22000000,GBP
+50,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,16000000,GBP
+51,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,24000000,GBP
+52,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,40000000,GBP
+53,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,15000000,GBP
+54,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,45000000,GBP
+55,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,36000000,GBP
+56,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,78000000,GBP
+57,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,69000000,GBP
+58,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,65000000,GBP
+59,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,70000000,GBP
+60,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,11000000,GBP
+61,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,87000000,GBP
+62,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,5000000,GBP
+63,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,18000000,GBP
+64,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,69000000,GBP
+65,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,15000000,GBP
+66,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,76000000,GBP
+67,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,31000000,GBP
+68,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,44000000,GBP
+69,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,8000000,GBP
+70,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,32000000,GBP
+71,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,62000000,GBP
+72,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,36000000,GBP
+73,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,88000000,GBP
+74,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,30000000,GBP
+75,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,4000000,GBP
+76,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,59000000,GBP
+77,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,79000000,GBP
+78,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,71000000,GBP
+79,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,16000000,GBP
+80,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,14000000,GBP
+81,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,58000000,GBP
+82,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,92000000,GBP
+83,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,47000000,GBP
+84,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,94000000,GBP
+85,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,18000000,GBP
+86,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,49000000,GBP
+87,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,40000000,GBP
+88,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,96000000,GBP
+89,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,35000000,GBP
+90,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,69000000,GBP
+91,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,53000000,GBP
+92,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,14000000,GBP
+93,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,31000000,GBP
+94,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,63000000,GBP
+95,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,55000000,GBP
+96,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,60000000,GBP
+97,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,55000000,GBP
+98,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,66000000,GBP
+99,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,65000000,GBP
+100,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,54000000,GBP
+101,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,78000000,GBP
+102,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,73000000,GBP
+103,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,7000000,GBP
+104,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,95000000,GBP
+105,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,54000000,GBP
+106,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,75000000,GBP
+107,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,89000000,GBP
+108,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,39000000,GBP
+109,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,32000000,GBP
+110,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,10000000,GBP
+111,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,91000000,GBP
+112,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,36000000,GBP
+113,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,7000000,GBP
+114,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,37000000,GBP
+115,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,37000000,GBP
+116,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,52000000,GBP
+117,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,89000000,GBP
+118,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,80000000,GBP
+119,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,67000000,GBP
+120,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,54000000,GBP
+121,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,96000000,GBP
+122,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,18000000,GBP
+123,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,47000000,GBP
+124,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,72000000,GBP
+125,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,31000000,GBP
+126,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,93000000,GBP
+127,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,77000000,GBP
+128,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,4000000,GBP
+129,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,76000000,GBP
+130,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,92000000,GBP
+131,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,4000000,GBP
+132,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,17000000,GBP
+133,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,20000000,GBP
+134,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,81000000,GBP
+135,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,51000000,GBP
+136,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,53000000,GBP
+137,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,60000000,GBP
+138,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,89000000,GBP
+139,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,81000000,GBP
+140,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,22000000,GBP
+141,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,31000000,GBP
+142,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,51000000,GBP
+143,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,55000000,GBP
+144,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,27000000,GBP
+145,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,67000000,GBP
+146,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,3000000,GBP
+147,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,22000000,GBP
+148,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,94000000,GBP
+149,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,8000000,GBP
+150,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,4000000,GBP
+151,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,92000000,GBP
+152,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,75000000,GBP
+153,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,69000000,GBP
+154,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,21000000,GBP
+155,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,1000000,GBP
+156,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,28000000,GBP
+157,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Hedge Funds,41000000,GBP
+158,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,63000000,GBP
+159,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,55000000,GBP
+160,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,94000000,GBP
+161,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,42000000,GBP
+162,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,40000000,GBP
+163,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,68000000,GBP
+164,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,45000000,GBP
+165,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,25000000,GBP
+166,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,39000000,GBP
+167,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,80000000,GBP
+168,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,70000000,GBP
+169,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,52000000,GBP
+170,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,45000000,GBP
+171,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,81000000,GBP
+172,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,9000000,GBP
+173,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,59000000,GBP
+174,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,55000000,GBP
+175,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,3000000,GBP
+176,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,97000000,GBP
+177,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,1000000,GBP
+178,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,20000000,GBP
+179,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,12000000,GBP
+180,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,36000000,GBP
+181,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,12000000,GBP
+182,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,42000000,GBP
+183,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,47000000,GBP
+184,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,32000000,GBP
+185,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,5000000,GBP
+186,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,18000000,GBP
+187,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,59000000,GBP
+188,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,34000000,GBP
+189,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,61000000,GBP
+190,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,4000000,GBP
+191,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,22000000,GBP
+192,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,52000000,GBP
+193,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,69000000,GBP
+194,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,76000000,GBP
+195,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,18000000,GBP
+196,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,49000000,GBP
+197,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,5000000,GBP
+198,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,73000000,GBP
+199,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,18000000,GBP
+200,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,90000000,GBP
+201,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,92000000,GBP
+202,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,23000000,GBP
+203,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,1000000,GBP
+204,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,94000000,GBP
+205,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,43000000,GBP
+206,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,36000000,GBP
+207,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,56000000,GBP
+208,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,24000000,GBP
+209,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,86000000,GBP
+210,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,19000000,GBP
+211,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,28000000,GBP
+212,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Infrastructure,41000000,GBP
+213,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,19000000,GBP
+214,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,63000000,GBP
+215,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,98000000,GBP
+216,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,69000000,GBP
+217,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,26000000,GBP
+218,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,38000000,GBP
+219,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,69000000,GBP
+220,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,57000000,GBP
+221,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,87000000,GBP
+222,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,36000000,GBP
+223,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,77000000,GBP
+224,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,50000000,GBP
+225,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,9000000,GBP
+226,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,13000000,GBP
+227,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,19000000,GBP
+228,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,93000000,GBP
+229,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,82000000,GBP
+230,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,53000000,GBP
+231,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,54000000,GBP
+232,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,69000000,GBP
+233,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,42000000,GBP
+234,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,10000000,GBP
+235,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,93000000,GBP
+236,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,95000000,GBP
+237,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,10000000,GBP
+238,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,9000000,GBP
+239,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,60000000,GBP
+240,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,30000000,GBP
+241,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,42000000,GBP
+242,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,11000000,GBP
+243,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,96000000,GBP
+244,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,50000000,GBP
+245,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,32000000,GBP
+246,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,79000000,GBP
+247,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,31000000,GBP
+248,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,9000000,GBP
+249,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,24000000,GBP
+250,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,38000000,GBP
+251,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,83000000,GBP
+252,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,72000000,GBP
+253,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,17000000,GBP
+254,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,50000000,GBP
+255,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Debt,39000000,GBP
+256,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Natural Resources,60000000,GBP
+257,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Real Estate,7000000,GBP
+258,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,5000000,GBP
+259,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,69000000,GBP
+260,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,17000000,GBP
+261,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,95000000,GBP
+262,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,21000000,GBP
+263,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Hedge Funds,48000000,GBP
+264,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,95000000,GBP
+265,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,89000000,GBP
+266,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Natural Resources,1000000,GBP
+267,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,48000000,GBP
+268,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,42000000,GBP
+269,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,5000000,GBP
+270,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,17000000,GBP
+271,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,42000000,GBP
+272,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Private Equity,6000000,GBP
+273,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,6000000,GBP
+274,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Real Estate,17000000,GBP
+275,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,73000000,GBP
+276,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,64000000,GBP
+277,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,0,GBP
+278,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,89000000,GBP
+279,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,21000000,GBP
+280,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,12000000,GBP
+281,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,31000000,GBP
+282,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,46000000,GBP
+283,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,68000000,GBP
+284,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Equity,16000000,GBP
+285,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,29000000,GBP
+286,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Infrastructure,26000000,GBP
+287,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Infrastructure,8000000,GBP
+288,Ioo Gryffindor fund,fund manager,Singapore,06/07/2000,21/02/2024,Hedge Funds,45000000,GBP
+289,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Infrastructure,63000000,GBP
+290,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,44000000,GBP
+291,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Natural Resources,20000000,GBP
+292,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Hedge Funds,84000000,GBP
+293,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Debt,55000000,GBP
+294,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Private Equity,68000000,GBP
+295,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Debt,20000000,GBP
+296,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Private Debt,57000000,GBP
+297,Ibx Skywalker ltd,asset manager,United States,21/07/1997,21/02/2024,Real Estate,37000000,GBP
+298,Mjd Jedi fund,bank,China,08/06/2010,21/02/2024,Natural Resources,13000000,GBP
+299,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Real Estate,37000000,GBP
+300,Cza Weasley fund,wealth manager,United Kingdom,29/05/2002,21/02/2024,Private Equity,34000000,GBP
